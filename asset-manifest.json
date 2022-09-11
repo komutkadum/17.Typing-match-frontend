@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/17.Typing-match-frontend/static/css/main.21e23877.css",
+    "main.js": "/17.Typing-match-frontend/static/js/main.b705ba22.js",
+    "index.html": "/17.Typing-match-frontend/index.html",
+    "main.21e23877.css.map": "/17.Typing-match-frontend/static/css/main.21e23877.css.map",
+    "main.b705ba22.js.map": "/17.Typing-match-frontend/static/js/main.b705ba22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e23877.css",
+    "static/js/main.b705ba22.js"
+  ]
+}
