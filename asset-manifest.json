@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/17.Typing-match-frontend/static/css/main.5c96aaaf.css",
-    "main.js": "/17.Typing-match-frontend/static/js/main.6b09eb1b.js",
-    "index.html": "/17.Typing-match-frontend/index.html",
-    "main.5c96aaaf.css.map": "/17.Typing-match-frontend/static/css/main.5c96aaaf.css.map",
-    "main.6b09eb1b.js.map": "/17.Typing-match-frontend/static/js/main.6b09eb1b.js.map"
+    "main.css": "/16.Typing-match-frontend/static/css/main.5c96aaaf.css",
+    "main.js": "/16.Typing-match-frontend/static/js/main.6b09eb1b.js",
+    "index.html": "/16.Typing-match-frontend/index.html",
+    "main.5c96aaaf.css.map": "/16.Typing-match-frontend/static/css/main.5c96aaaf.css.map",
+    "main.6b09eb1b.js.map": "/16.Typing-match-frontend/static/js/main.6b09eb1b.js.map"
   },
   "entrypoints": [
     "static/css/main.5c96aaaf.css",
